@@ -26,12 +26,12 @@
     
     
     
-  HelloWorld
+  HelloWorld——
     Yunnan-Dialection:
         
         dayin(<饭咯吃了?>)
         
-    Python:
+   Python:
     
         print("饭吃了吗？")
         
